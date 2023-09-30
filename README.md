@@ -1,3 +1,7 @@
+This is a spotify clone with Minimalistic UI, built using ReactJS.
+To see the deployment, visit [Minimal-Spotify](https://thenameiskartik.github.io/Minimal-Spotify).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
