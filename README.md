@@ -1,6 +1,11 @@
 This is a spotify clone with Minimalistic UI, built using ReactJS.
 To see the deployment, visit [Minimal-Spotify](https://thenameiskartik.github.io/Minimal-Spotify).
 
+Note: This spotify clone is in development mode due to which users must be added manually at Spotify Developer Portal and maximum of 25 users can only be added. By visiting above link you will be able to login but your data wont be fetched from Spotify API unless user is added. 
+Thank you. 
+
+
+
 
 # Getting Started with Create React App
 
